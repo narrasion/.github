@@ -24,4 +24,4 @@ Checkout the a sample narrasion.
 
 > Now you can also be a part of `Narrasion's Creators Club` join us here for exclusive early access with beta features.
 >
-> [Join `Narrasion's Creators Club` Early Access](https://piyushkolkata.typeform.com/to/wGWUpn0R)
+> <a href="https://piyushkolkata.typeform.com/to/wGWUpn0R" target="_blank">Join `Narrasion's Creators Club` Early Access</a>
