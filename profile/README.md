@@ -16,11 +16,9 @@ A sass platform to create and express your narrative in the form of web stories.
 
 ✨ Narrasion is currently being built.
 
+> Checkout a sample narrasion. [Click here]()
+
 ---
-
-
-
-Checkout the a sample narrasion. 
 
 > Now you can also be a part of `Narrasion's Creators Club` join us here for exclusive early access with beta features.
 >
